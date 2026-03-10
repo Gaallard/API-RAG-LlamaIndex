@@ -297,8 +297,6 @@ The scaffold includes:
 - ✅ Query endpoints (stub)
 - ✅ Statistics endpoints (stub)
 - ✅ Qdrant integration (stub)
-- ⏳ Full LlamaIndex integration (TODO)
-- ⏳ Complete RAG pipeline (TODO)
 
 ## Docker Configuration
 
